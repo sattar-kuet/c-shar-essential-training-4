@@ -1,0 +1,6 @@
+F:\C#\variable\variable\bin\Debug\variable.exe.config
+F:\C#\variable\variable\bin\Debug\variable.exe
+F:\C#\variable\variable\bin\Debug\variable.pdb
+F:\C#\variable\variable\obj\Debug\variable.csprojAssemblyReference.cache
+F:\C#\variable\variable\obj\Debug\variable.exe
+F:\C#\variable\variable\obj\Debug\variable.pdb
